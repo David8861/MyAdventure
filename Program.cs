@@ -15,7 +15,7 @@ namespace MyAdventure
             bestfriend = "Brian";
             oldman = "Antwon";
 
-            Console.WriteLine("Hello! Before we begin, I'll need your name.");
+            Console.WriteLine("Hello! Before we begin, Let's get your name...");
 
             username = Console.ReadLine()!;
 
